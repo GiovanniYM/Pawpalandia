@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function () {
               showAlertErrorOne("info", "Gracias por ser parte del Club PawPalandia Vip");
             }
   
-            const url = `http://3.88.224.251:8080/api/v3/post-user`;
+            const url = `http://35.171.26.213:8080/api/v3/post-user`;
             
             const user = {
               // Increment the currentId property
@@ -617,7 +617,7 @@ document.addEventListener('DOMContentLoaded',function(){
               );
 
               //--- Recuperar Datos productos (Incio)---
-              const url = `http://3.88.224.251:8080/api/v4/post-product`;
+              const url = `http://35.171.26.213:8080/api/v4/post-product`;
           
           const user = {
             // Increment the currentId property
