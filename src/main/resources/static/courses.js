@@ -98,7 +98,7 @@
 //---(Inicio) Recolectar productos desde la base de datos---
 let cardData = [];
 
-    const url = `http://3.88.224.251:8080/api/v4/products`;
+    const url = `http://35.171.26.213:8080/api/v4/products`;
 
               // fetch para método get
               fetch(url)
