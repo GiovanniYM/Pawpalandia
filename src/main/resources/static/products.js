@@ -14,7 +14,7 @@
 
 //---(Inicio) Recolectar productos desde la base de datos---
 async function loadJSONData(callback) {
-    const url = `http://3.88.224.251:8080/api/v4/products`;
+    const url = `http://35.171.26.213:8080/api/v4/products`;
 
     try {
         // fetch para método GET
