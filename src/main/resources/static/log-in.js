@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                     //console.log(loginObjectJSON);
 
-                    const url = `http://3.88.224.251:8080/api/v3/users/email/${document.getElementById('loginEmail').value}`;
+                    const url = `http://35.171.26.213:8080/api/v3/users/email/${document.getElementById('loginEmail').value}`;
 
                     // fetch para método get
                     fetch(url)
